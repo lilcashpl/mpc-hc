@@ -1,7 +1,8 @@
 repo_name: lilcashpl/mpc-hc
 report_id: 3741b3a2c38f27af7b6445252e58723d
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:09:08+00:00'
+timestamp: '2024-01-05T08:31:43+00:00'
 requested_by: Nevcairiel
 provider: github
 branch: develop
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/mpc-hc
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/lilcashpl/mpc-hc
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/lilcashpl/mpc-hc
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/lilcashpl/mpc-hc
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/lilcashpl/mpc-hc
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -63,6 +69,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lilcashpl/mpc-hc
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -73,6 +80,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/lilcashpl/mpc-hc/blob/develop/mpc-hc.sln
   detection_source: mpc-hc.sln
   last_updated_by: Kacper Michajłow
   last_updated_on: 2017-01-15 15:22:48.000000000 Z
@@ -82,6 +90,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/mpc-hc/blob/develop/src/mpc-hc/res/web/404.html
   detection_source: src/mpc-hc/res/web/404.html
   last_updated_by: XhmikosR
   last_updated_on: 2012-10-31 09:03:04.000000000 Z
@@ -94,4 +103,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/lilcashpl/mpc-hc
   detection_source: Repo Metadata
